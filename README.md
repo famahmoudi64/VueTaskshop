@@ -1,6 +1,6 @@
 # Vue.js Application with Vuex State Management
 
-This is a Vue.js application that utilizes Vuex for state management. The application is divided into two main parts: Task Management and Products.
+This is a web application built with vue.js, leveraging the Composition API for dynamic and reactive task management and utilizing Vuex for state management. The application is divided into two main parts: Task Management and Products.
 
 ## Features
 
