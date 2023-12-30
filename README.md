@@ -18,10 +18,10 @@ This is a web application built with vue.js, leveraging the Composition API for 
 
 ## Technologies Used
 
-. Vue.js
-. Vuex
-. Bootstrap
-. Fake API (for task data)
+- Vue.js
+- Vuex
+- Bootstrap
+- Fake API (for task data)
 
 ## Getting Started
 
