@@ -2,20 +2,19 @@
 
 This is a Vue.js application that utilizes Vuex for state management. The application is divided into two main parts: Task Management and Products.
 
-
 ## Features
 
-. Vue.js for building dynamic and reactive user interfaces.
-. Vuex for state management to handle complex data and component interactions.
-. Task Management:
-  . Fetch and display task data from a fake API.
-  . Manage tasks (delete, mark as done, create new tasks).
-  . Filter tasks to limit the number of displayed tasks.
-. Product Management:
-  . Small online shop functionality using Vuex.
-  . Add products to the cart.
-  . Track quantities and calculate the total price.
-  . Remove unwanted products from the cart.
+- Vue.js for building dynamic and reactive user interfaces.
+- Vuex for state management to handle complex data and component interactions.
+- Task Management:
+  - Fetch and display task data from a fake API.
+  - Manage tasks (delete, mark as done, create new tasks).
+  - Filter tasks to limit the number of displayed tasks.
+- Product Management:
+  - Small online shop functionality using Vuex.
+  - Add products to the cart.
+  - Track quantities and calculate the total price.
+  - Remove unwanted products from the cart.
 
 ## Technologies Used
 
