@@ -24,14 +24,17 @@ This is a web application built with vue.js, leveraging the Composition API for 
 - Fake API (for task data)
 
 ## Getting Started
+Before you begin, ensure that you have Node.js installed on your machine. If not, you can download and install it from https://nodejs.org/.
 
 To run this application locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/famahmoudi64/VueTaskshop.git`
 2. Navigate to the project directory: `cd VueTaskshop`
 3. Install dependencies: `npm install`
-4. Run the development server: `npm run serve`
-5. Open your browser and visit `http://localhost:8080`
+4. Install Vue CLI globally (if not installed): `npm install -g @vue/cli`
+5. Install Vuex: `npm install vuex`
+6. Run the development server: `npm run serve`
+7. Open your browser and visit `http://localhost:8080`
 
 ## Task Management
 
